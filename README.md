@@ -5,7 +5,7 @@ This is a file sorter that uses local AI. It scans, checks, and organizes messy 
 ---
 
 ## What is Classify.io?
-The **Ai-File-Sorter** is a desktop automation utility built in Python using the Tkinter GUI framework. It acts as an automated digital housekeeper for crowded storage areas (like your Downloads folder). Instead of relying strictly on rigid, hardcoded file extension paths, it leverages a locally running Large Language Model (LLM) to intelligently read filenames, evaluate context, and automatically determine the most logical structural destination for your data.
+**Classify.io** is a desktop automation utility built in Python using the Tkinter GUI framework. It acts as an automated digital housekeeper for crowded storage areas (like your Downloads folder). Instead of relying strictly on rigid, hardcoded file extension paths, it leverages a locally running Large Language Model (LLM) to intelligently read filenames, evaluate context, and automatically determine the most logical structural destination for your data.
 
 ---
 
