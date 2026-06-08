@@ -74,7 +74,7 @@ Execute the script from your active environment terminal prompt:
 
 ```
 Bash
-python cleaner.py
+python Classify.io.py
 ```
 
 (Windows users who want to run the application cleanly without leaving a black console window hanging open in the background can launch using pythonw cleaner.py instead).'''
