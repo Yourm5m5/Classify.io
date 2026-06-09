@@ -27,7 +27,7 @@ Either clone the repository using Git or download the source ZIP file directly f
 
 ```
 powershell
-git clone [https://github.com/YOUR_USERNAME/Classify.io.git](https://github.com/YOUR_USERNAME/Classify.io.git); cd Classify.io; python -m venv .venv
+git clone [https://github.com/Yourm5m5/Classify.io.git](https://github.com/Yourm5m5/Classify.io.git); cd Classify.io; python -m venv .venv
 .venv\Scripts\Activate.ps1; pip install --upgrade pip; pip install ollama
 ollama run llama3.2:1b "Ready?"; pythonw cleaner.py
 ```
