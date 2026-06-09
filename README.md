@@ -27,7 +27,6 @@ Either clone the repository using Git or download the source ZIP file directly f
 
 ```
 powershell
-Clone repo, move inside, and create virtual environment
 git clone https://github.com/Yourm5m5/Classify.io.git; cd Classify.io; python -m venv .venv
 Activate environment, upgrade pip, and install ollama python library
 .\.venv\Scripts\Activate.ps1; python -m pip install --upgrade pip; pip install ollam
